@@ -1,3 +1,10 @@
-Submit your tasks and remember to add your name in the README.md file.
+## Name Madhu Sailesh Sasamal
 
-Name your project file/folder same as your name...
+# 👤 User Card Generator
+
+A simple and stylish web app that allows users to dynamically create and display profile cards by entering their name, title, and bio. Perfect for showcasing team members or creating fun profiles!
+
+## 🚀 Live Demo
+
+🔗 **Deployed Link**: [Visit Here](https://usercardgenerator.netlify.app/)  
+
